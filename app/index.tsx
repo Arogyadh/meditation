@@ -5,7 +5,7 @@ import { StatusBar } from "expo-status-bar";
 
 import beachImage from "@/assets/meditation-images/beach.webp";
 import { SafeAreaProvider } from "react-native-safe-area-context";
-import CustomButton from "@/components/customButton";
+import CustomButton from "@/components/CustomButton";
 import { useRouter } from "expo-router";
 import AppGradient from "@/components/AppGradient";
 
